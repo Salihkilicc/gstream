@@ -40,8 +40,7 @@ Before you begin, make sure you have the following installed:
 
 1.  **Clone the Repository (Optional):** If this project is hosted on a repository platform, you can clone the project using git, otherwise download files:
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+   
     ```
 2.  **Run the Server:** Start the Flask server from the directory containing the project:
     ```bash
@@ -100,14 +99,4 @@ Use the keyboard to select the desired option and press enter.
 *   **Code Enhancements:** This can be improved by using argparse for command line arguments, or a better GUI for selection.
 * **Performance**: If you find performance is lacking, you can adjust encoding parameters in the server, such as adjusting resolution, bitrate, or using a different encoder.
 
-## Contributing
 
-If you wish to contribute, feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-
-[Add License details here if needed]
-
-## Contact
-
-If you have any questions or comments, please feel free to contact [your email or contact info].
